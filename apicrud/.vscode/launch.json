@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApicrudApplication<apicrud>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.juniorprogrammer.apicrud.ApicrudApplication",
+            "projectName": "apicrud",
+            "args": ""
+        }
+    ]
+}
